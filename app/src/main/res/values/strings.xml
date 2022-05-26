@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Samsung ClockFix</string>
-    <string name="xp_mod_desc">解除三星系统时钟通话中不提醒不响铃的限制</string>
+    <string name="xp_mod_desc">解除三星系统时钟网络通话中(QQ微信)不响铃的限制</string>
 </resources>
